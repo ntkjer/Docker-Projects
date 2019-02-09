@@ -1,0 +1,5 @@
+1549744838	MISS	http://example.com/
+1549744906	MISS	http://example.com/
+1549744912	HIT	http://example.com/
+1549744923	HIT	http://example.com/
+1549744958	MISS	http://training.play-with-docker.com/
